@@ -52,7 +52,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'gallore',
+    'gallaries',
     'bootstrap3',
     'bootstrap4',
     'bootstrap_modal_forms',
