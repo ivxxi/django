@@ -42,5 +42,5 @@ As a user of the web application you will be able to:
 ## Support and Team
 Crystal Alice
 
-### Licence
+### Licence [https://github.com/ivxxi/django1/blob/master/Licence]
 Copyright(c) 2019  crystal alice
