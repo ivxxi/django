@@ -19,7 +19,6 @@ As a user of the web application you will be able to:
 | View all images                          |  Go to the home page                      |    All images will be displayed          |
 | Search for an image                      | Input the category name in the search bar | All images in that category will display |
 | View the image details                   | Click on the image                        | All the image details will be displayed  |
-| Copy image                               | Click on the copy link button             | The image link is copied                 |
 
 
 ## Setup/Installation/Running the Application
