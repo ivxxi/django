@@ -44,4 +44,4 @@ Crystal Alice
 
 ### Licence
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/ivxxi/django1/blob/master/Licence)
-Copyright(c) 2019  crystal alice
+Copyright(c) 2020  crystal alice
